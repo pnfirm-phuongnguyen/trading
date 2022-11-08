@@ -119,4 +119,61 @@ accessing the internet
 the internet 
 picking a browser 
 securing your computer 
+PART 2 READING THE FUNDAMENTALS : FUNDAMENTAL ANALYSIS 
+CHAPTER 5 FUNDAMENTALS 101 : OBSERVING MARKET BEHAVIOR 
+*THE BASICS OF THE BUSINESS CYCLE 
+understanding how periods of economic growth and recession are determined 
+using economic indicators to determine the strenth of the economy 
+relating bull markets and bear markets to the economy 
+* EMPLOYING A SECTOR ROTATION STRATEGY 
+early recovery 
+full recovery 
+early recession 
+full recession 
+sector rotation 
+*UNDERSTANDING ECONOMMIC INDICATORS 
+interest rates 
+money supply 
+inflation rate 
+deflation 
+jobsless claims 
+consumer confidence 
+business activity 
+*USING DATA FROM ECONOMIC INDICATORS 
+CHAPTER 6 : DIGGING INTO FUNDAMENTAL ANALYSIS 
+CHECKING OUT THE INCOME STATEMENT 
+revenues 
+cost of goods sold 
+gross margins 
+expenses 
+interest payments 
+tax payments 
+dividend payments 
+profitability 
+LOOKING AT CASH FLOW 
+operating activities 
+financing activities 
+investment activities 
+SCOURING THE BALANCE SHEET 
+analyzing assests 
+looking at debt 
+reviewing goodwill 
+DETERMINING STOCK VALUATIONS 
+earnings 
+earnings growth rate 
+FIGURING YOUR RATIOS : COMPARING ONE COMPANY'S STOCK TO ANOTHER 
+CHAPTER 7  LISTENING TO ANLYST CALLS 
+GETTING TO KNOW YOUR ANALYSTS 
+buy-side analysts : you won't see them 
+sell-side analysts : watch for conflicts 
+independent analysts : where are they ?
+THE IMPORTANCE OF ANLYSTS 
+tracking how a company 
+providing access to analyst calls 
+POINTERS FOR LISTENING TO ANALYST CALLS 
+understanding the analysts' languge 
+developing your listening skills 
+LOCATING COMPANY CALLS 
+INDENTIFYING TRENDS IN THE STOCK-ANALYST COMMUNITY 
+
 
