@@ -1,7 +1,7 @@
 # trading
 getting started with trading 
 part 1 : getting started with trading 
-chpter 1 : the ups and downs of trading stocks 
+chapter 1 : the ups and downs of trading stocks 
 chapter 2: exploring markets and stock exchanges 
 chapter 3 : going for broke (r) . discovering brokerage options 
 chapter 4: putting your key business tool to work : the computer 
@@ -175,5 +175,19 @@ understanding the analysts' languge
 developing your listening skills 
 LOCATING COMPANY CALLS 
 INDENTIFYING TRENDS IN THE STOCK-ANALYST COMMUNITY 
+PART 3 : READING THE CHARTS: TECHNICAL ANALYSIS 
+CHAPTER 8: SEEING IS BELIEVING : AN INTRODUCTION TO TECHNICAL ANALYSIS 
+UNDERSTANDING THE METHODOLOGY 
+finding everything in the price 
+seeing that price movements are not always random 
+balancing supply and demand 
+understanding where you've been 
+understanding where you're headed 
+ANSWERING THE DETRACTORS 
+walking randomly 
+trading signals know to all 
+Executing your trading plan 
+using stockcharts.com 
+
 
 
